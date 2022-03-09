@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href=" https://kaiopratess.github.io/my-gallery-challenge/">
+    <a href="https://kaiopratess.github.io/my-gallery-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href=" https://kaiopratess.github.io/my-gallery-challenge/">
+    <a href="https://kaiopratess.github.io/my-gallery-challenge/">
       Solution
     </a>
     <span> | </span>
